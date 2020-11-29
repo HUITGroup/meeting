@@ -1,7 +1,7 @@
 ---
-name: 議題
+name: agenda-proposal
 about: 全体に共有すべき議題、イベント提案や告知、プロジェクト勧誘など
-title: 議題
+title: タイトルをここに入力してください
 labels: ''
 assignees: ''
 
