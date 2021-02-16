@@ -11,7 +11,7 @@
 
 全体で話し合うべき議題だけでなく、イベント提案や告知、またプロジェクト勧誘を共有しましょう。
 
-1. GitHub の [agenda レポジトリに新しい issue を立てます](https://github.com/HUITGroup/agenda/issues)
+1. GitHub の [meeting レポジトリに新しい issue を立てます](https://github.com/HUITGroup/agenda/issues)
 2. 提案したものに適したラベルをつけましょう。
 3. 次にくる例会で、全体に共有されます。質問意見要望など話しあい、今後の方針を決めます。
 4. その話し合い（イベント）が終わったら、issue を close します。
