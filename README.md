@@ -6,9 +6,13 @@
       - サークルの規約や活動についてを記載 主に口座開設に使用
     - [2020](2020)
       - 2020 年の例会議事録
-- [issues](https://github.com/HUITGroup/meeting/issues)
+
+- [Issues](https://github.com/HUITGroup/meeting/issues)
   - HUIT の運営に関する課題や提案を上げる
   - 上がった議題は例会(後述)で話し合う
+ 
+- [Projects](https://github.com/HUITGroup/meeting/projects/2)
+  - Issuesの状況について 
 
 # 北大 IT 研究会 例会
 
